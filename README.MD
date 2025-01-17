@@ -1,7 +1,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 ## 📒 Descrição
-Este podcast de 3 minutos páginas explora as 3 principais atrações turísticas da cidade de Atlanta.
+Este podcast de 3 minutos explora as 3 principais atrações turísticas da cidade de Atlanta.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;

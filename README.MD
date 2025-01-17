@@ -13,7 +13,7 @@ Utilizei o "ChatGPT" para estruturar o conteúdo, criei um prompt detalhado que 
 ## 🚀 Resultados
 O podcast gerado apresenta um conteúdo simples e prático para os viajantes conhecerem a cidade de Atlanta, onde você pode mergulhar no mundo marinho, provar a história efervescente da Coca-Cola e se inspirar na luta por justiça e igualdade. Cada atração tem algo único para te ensinar! Escute o podcast e saiba mais!
 
-[Podcast Atlanta]()
+[Podcast Atlanta](https://github.com/LILIAN2301/prompts-for-podcast-generate-by-ia/blob/6b2e9ac1f761fe0c9fbafa2f6cb27d3f02727ecb/ElevenLabs_2025-01-17T14_26_07_Rachel_pre_s50_sb75_se0_b_m2.mp3)
 
 ## 💭 Reflexão
 Criar este podcast demonstra o potencial criativo das IAs e como elas podem ser aplicadas para nos auxiliar até mesmo nos momentos de lazer, criando roteiros personalizados para viagens.

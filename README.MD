@@ -29,11 +29,9 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o bootcamp promovido pela CAIXA, através da plataforma DIO.
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts poderosos.
 
 ## 💻 Tecnologias utilizadas no projeto
 

@@ -1,97 +1,18 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
-
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
 # Projeto Podcast Gerado por I.A.s
 
+## 📒 Descrição
+Este podcast de 3 minutos páginas explora as 3 principais atrações turísticas da cidade de Atlanta.
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o bootcamp promovido pela CAIXA, através da plataforma DIO.
+## 🤖 Tecnologias Utilizadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts poderosos.
+## 🧐 Processo de Criação
+Utilizei o "ChatGPT" para estruturar o conteúdo, criei um prompt detalhado que atingiu o objetivo de forma eficaz: "Você é um famoso youtuber focado em turismo. Crie um roteiro de podcast, de fala simples, direta e simpática, resumindo em até 3 minutos, as três atrações imperdíveis da cidade de Atlanta (Geórgia/EUA), um minuto para cada atração. Seu público não conhece a cidade, portanto inclua no roteiro desse podcast dicas com links de onde achar mais detalhes para as atrações selecionadas, tais como sites, horário de funcionamento, links para mapas. Finalize convencendo seu público a vir à cidade de Atlanta e o que pode aprender em cada uma das atrações."
 
-## 💻 Tecnologias utilizadas no projeto
+## 🚀 Resultados
+O podcast gerado apresenta um conteúdo simples e prático para os viajantes conhecerem a cidade de Atlanta, onde você pode mergulhar no mundo marinho, provar a história efervescente da Coca-Cola e se inspirar na luta por justiça e igualdade. Cada atração tem algo único para te ensinar! Escute o podcast e saiba mais!
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+[]()
 
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+## 💭 Reflexão
+Criar este podcast foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas para nos auxiliar até mesmo nos momentos de lazer, criando roteiros personalizados para viagens.

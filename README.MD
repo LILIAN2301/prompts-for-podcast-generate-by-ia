@@ -15,4 +15,4 @@ O podcast gerado apresenta um conteúdo simples e prático para os viajantes con
 []()
 
 ## 💭 Reflexão
-Criar este podcast foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas para nos auxiliar até mesmo nos momentos de lazer, criando roteiros personalizados para viagens.
+Criar este podcast demonstra o potencial criativo das IAs e como elas podem ser aplicadas para nos auxiliar até mesmo nos momentos de lazer, criando roteiros personalizados para viagens.
